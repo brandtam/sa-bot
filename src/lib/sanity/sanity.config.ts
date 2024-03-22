@@ -13,7 +13,7 @@ export default defineConfig({
 	basePath: '/sanity',
 	projectId: import.meta.env.VITE_SANITY_PROJECT_ID,
 	dataset: import.meta.env.VITE_SANITY_DATASET,
-	title: 'Chatr - Studio',
+	title: 'SA Bot - Studio',
 	schema: { types: [group, member] },
 	plugins: [deskTool()]
 });

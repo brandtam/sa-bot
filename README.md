@@ -1,10 +1,10 @@
-# Chatr.tech
+# SA Bot
 
-A slack style chatbot that uses OpenAI's GPT-3 API to generate responses.
+A slack style chatbot that uses OpenAI's GPT-4 API to generate responses.
 
 ## What it does
 
-The app defines different "bots" to chat with. Each bot has it's own personality and style of responses. The app uses OpenAI's GPT-3 API to generate responses for the bot.
+The app defines different "bots" to chat with. Each bot has it's own personality and style of responses. The app uses OpenAI's GPT-4 API to generate responses for the bot.
 
 ---
 
@@ -13,7 +13,7 @@ The app defines different "bots" to chat with. Each bot has it's own personality
 - Clone the project onto your local machine
 
 ```bash
-git clone https://github.com/brandtam/sk-chatr.git
+git clone https://github.com/brandtam/sa-bot.git
 ```
 
 - Install the packages with your favorite package manager (pnpm)

@@ -60,12 +60,12 @@
 	</div>
 	<div class="basis-1/3 flex flex-col items-center">
 		<h1
-			class="bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 bg-clip-text text-4xl font-extrabold tracking-tighter text-transparent px-2"
+			class="bg-gradient-to-r from-green-500 via-blue-500 to-green-900 bg-clip-text text-4xl font-extrabold tracking-tighter text-transparent px-2"
 		>
-			ChatrBot
+			ShopiBot
 		</h1>
 		<div class="flex flex-col items-center">
-			<span class="text-white opacity-50 text-sm">chatr.tech</span>
+			<span class="text-white opacity-50 text-sm">shopibot.shopdevs.com</span>
 		</div>
 	</div>
 	<div class="basis-1/3">
