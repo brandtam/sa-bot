@@ -43,7 +43,7 @@ export const POST: RequestHandler = async ({ request }) => {
 		let tokenCount = 0;
 
 		reqMessages.forEach((msg) => {
-			const tokens = getTokens(msg.content);
+			const tokens = msg.content ? getTokens(msg.content) : 0;
 			tokenCount += tokens;
 		});
 
