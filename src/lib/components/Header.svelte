@@ -65,7 +65,7 @@
 			ShopiBot
 		</h1>
 		<div class="flex flex-col items-center">
-			<span class="text-white opacity-50 text-sm">shopibot.shopdevs.com</span>
+			<span class="text-white opacity-50 text-sm">shopibot.chatr.tech</span>
 		</div>
 	</div>
 	<div class="basis-1/3">
