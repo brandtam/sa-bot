@@ -13,14 +13,14 @@
 		>
 			<defs>
 				<linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="0%">
-					<stop offset="0%" style="stop-color:#22c55e;stop-opacity:1" />
-					<stop offset="50%" style="stop-color:#3b82f6;stop-opacity:1" />
-					<stop offset="100%" style="stop-color:#14532d;stop-opacity:1" />
+					<stop offset="0%" style="stop-color:#14532d;stop-opacity:1" />
+					<stop offset="60%" style="stop-color:#3b82f6;stop-opacity:1" />
+					<stop offset="100%" style="stop-color:#22c55e;stop-opacity:1" />
 				</linearGradient>
 				<linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="0%">
-					<stop offset="0%" style="stop-color:#22c55e;stop-opacity:1" />
-					<stop offset="60%" style="stop-color:#3b82f6;stop-opacity:1" />
-					<stop offset="100%" style="stop-color:#14532d;stop-opacity:1" />
+					<stop offset="0%" style="stop-color:#14532d;stop-opacity:1" />
+					<stop offset="70%" style="stop-color:#3b82f6;stop-opacity:1" />
+					<stop offset="100%" style="stop-color:#22c55e;stop-opacity:1" />
 				</linearGradient>
 			</defs>
 			<path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z" />

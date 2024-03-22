@@ -22,7 +22,7 @@
 		getMembers($clickedSanityShow._id);
 	}
 
-	function handleCastSelect(id: string) {
+	function handleMemberSelect(id: string) {
 		if (id === $selectedMember._id) return;
 		$selectedMember = $sanityMembers.find((member) => member._id === id) || $selectedMember;
 		$selectedSanityShow = $clickedSanityShow;
@@ -77,7 +77,7 @@
 			{#each $sanityMembers as member}
 				<div
 					on:keydown
-					on:click|preventDefault={() => handleCastSelect(member._id)}
+					on:click|preventDefault={() => handleMemberSelect(member._id)}
 					class="flex items-center mb-3 px-4 cursor-pointer bg-gradient-to-r from-green-900 via-blue-500 to-green-500 bg-clip-text font-extrabold tracking-tighter text-transparent {member.name ===
 					$selectedMember.name
 						? 'text-2xl '
